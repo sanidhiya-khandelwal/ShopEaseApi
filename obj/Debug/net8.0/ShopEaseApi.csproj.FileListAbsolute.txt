@@ -31,3 +31,4 @@ C:\Learnings\Dot net web api\ShopEaseApi\obj\Debug\net8.0\refint\ShopEaseApi.dll
 C:\Learnings\Dot net web api\ShopEaseApi\obj\Debug\net8.0\ShopEaseApi.pdb
 C:\Learnings\Dot net web api\ShopEaseApi\obj\Debug\net8.0\ShopEaseApi.genruntimeconfig.cache
 C:\Learnings\Dot net web api\ShopEaseApi\obj\Debug\net8.0\ref\ShopEaseApi.dll
+C:\Learnings\Dot net web api\ShopEaseApi\obj\Debug\net8.0\ShopEaseApi.sourcelink.json
